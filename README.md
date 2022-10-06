@@ -26,6 +26,11 @@ He is currently working and exploring cutting edge technologies including Quantu
 <h2 dir="auto"><a id="user-content-badges" class="anchor" aria-hidden="true" href="#badges"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Badges</h2>
 
 <p dir="auto">Here you will find some of the most relevant badges earned, for a complete list, please <a href="https://www.credly.com/users/viratkumar-kothari/badges" rel="nofollow">click here</a>.</p>
+
+<h3 dir="auto"><a id="user-content-project-management" class="anchor" aria-hidden="true" href="#project-management"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Project Management</h3>
+
+<img src="https://user-images.githubusercontent.com/8424767/194282195-3514119b-7eaf-4a82-8996-14b836ad48a7.png" width="140" height="140" style="max-width: 100%;">
+
 <!--
 **ViratKothari/ViratKothari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
