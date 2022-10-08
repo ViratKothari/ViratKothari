@@ -15,14 +15,22 @@ He is currently working and exploring cutting edge technologies including Quantu
 <h2 dir="auto"><a id="user-content-contact" class="anchor" aria-hidden="true" href="#contact"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Contact</h2>
 
 <p dir="auto">
-  
-<a href="https://www.linkedin.com/in/viratkkothari/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white" style="max-width: 100%;"></a>
+<div class="row">
 
-<a href="https://twitter.com/ViratKothari" rel="nofollow"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&amp;logo=Twitter&amp;logoColor=white" style="max-width: 100%;"></a>
+  <div class="column">
+    <a href="https://www.linkedin.com/in/viratkkothari/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white" style="max-width: 100%;"></a>
+  </div> 
 
-<a href="https://www.kaggle.com/viratkothari" rel="nofollow"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" style="max-width: 100%;"></a>
+  <div class="column">
+    <a href="https://twitter.com/ViratKothari" rel="nofollow"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&amp;logo=Twitter&amp;logoColor=white" style="max-width: 100%;"></a>
+  </div> 
 
-</p>
+  <div class="column">
+    <a href="https://www.kaggle.com/viratkothari" rel="nofollow"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" style="max-width: 100%;"></a>
+  </div> 
+  </div>
+
+  </p>
 <h2 dir="auto"><a id="user-content-badges" class="anchor" aria-hidden="true" href="#badges"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Badges</h2>
 
 <p dir="auto">Here you will find some of the most relevant badges earned, for a complete list, please <a href="https://www.credly.com/users/viratkumar-kothari/badges" rel="nofollow">click here</a>.</p>
