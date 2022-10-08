@@ -17,15 +17,15 @@ He is currently working and exploring cutting edge technologies including Quantu
 <p dir="horizontal">
 <div>
     <a href="https://www.linkedin.com/in/viratkkothari/" rel="nofollow">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white" >
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white" style="max-width: 100%;">
   </a>
 
-    <a href="https://twitter.com/ViratKothari" rel="nofollow">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&amp;logo=Twitter&amp;logoColor=white" >
+    <a href="https://twitter.com/ViratKothari" >
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&amp;logo=Twitter&amp;logoColor=white" style="max-width: 100%;">
   </a>
 
     <a href="https://www.kaggle.com/viratkothari" rel="nofollow">
-      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" >
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" style="max-width: 100%;">
   </a>
 
 </div>
