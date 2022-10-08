@@ -22,11 +22,11 @@ He is currently working and exploring cutting edge technologies including Quantu
   </div> 
 
   <div class="column">
-    <a href="https://twitter.com/ViratKothari" rel="nofollow"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&amp;logo=Twitter&amp;logoColor=white" style="max-width: 100%;"></a>
+    <a href="https://twitter.com/ViratKothari" rel="nofollow"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&amp;logo=Twitter&amp;logoColor=white" "></a>
   </div> 
 
   <div class="column">
-    <a href="https://www.kaggle.com/viratkothari" rel="nofollow"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" ></a>
+    <a href="https://www.kaggle.com/viratkothari" rel="nofollow"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" style="max-width: 100%;"></a>
   </div> 
   </div>
 
