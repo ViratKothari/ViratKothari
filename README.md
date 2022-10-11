@@ -17,7 +17,7 @@ He is currently working and exploring cutting edge technologies including Quantu
 <p>
 <div>
 
-<a href="https://www.linkedin.com/in/viratkkothari/" target="_blank">
+<a href="https://www.linkedin.com/in/viratkkothari/" target="_blank" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white" style="max-width: 100%;">
 </a>
 
