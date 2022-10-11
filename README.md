@@ -62,6 +62,9 @@ He is currently working and exploring cutting edge technologies including Quantu
     <img src="https://user-images.githubusercontent.com/8424767/195079812-992b0d45-a8a8-4442-8434-48a831b9702a.png" width="140" height="140" style="max-width: 100%;">
 </a>
 
+<a href="https://www.credly.com/earner/earned/badge/73b3395e-3af7-49bb-819e-3ae9143e35f2" rel="nofollow">
+    <img src="https://user-images.githubusercontent.com/8424767/195080190-daf48784-3691-44ac-b6af-409fdf3072b7.png" width="140" height="140" style="max-width: 100%;">
+</a>
 <!--
 **ViratKothari/ViratKothari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
