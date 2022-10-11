@@ -46,20 +46,20 @@ He is currently working and exploring cutting edge technologies including Quantu
     <img src="https://user-images.githubusercontent.com/8424767/195076668-85b8d275-cf29-400c-9264-42c81d1aae79.png" width="140" height="140" style="max-width: 100%;">
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/37702739-2c78-49c2-b68a-c64dd5785860" rel="nofollow">
+<a href="https://www.credly.com/earner/earned/badge/04a146e3-117d-45d8-a5c8-3dd41e73ccad" rel="nofollow">
     <img src="https://user-images.githubusercontent.com/8424767/195078903-1542269f-6641-4a5c-bbd6-91bcbf18d7d2.png" width="140" height="140" style="max-width: 100%;">
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/37702739-2c78-49c2-b68a-c64dd5785860" rel="nofollow">
+<a href="https://www.credly.com/earner/earned/badge/f3359377-8257-4527-ab85-1884a3caa390" rel="nofollow">
     <img src="https://user-images.githubusercontent.com/8424767/195079138-fd8b3ae3-8921-412d-8cd7-b2489098b05f.png" width="140" height="140" style="max-width: 100%;">
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/37702739-2c78-49c2-b68a-c64dd5785860" rel="nofollow">
-    <img src="https://user-images.githubusercontent.com/8424767/195076668-85b8d275-cf29-400c-9264-42c81d1aae79.png" width="140" height="140" style="max-width: 100%;">
+<a href="https://www.credly.com/earner/earned/badge/a268a83f-cadf-4f91-abb6-26588e780356" rel="nofollow">
+    <img src="https://user-images.githubusercontent.com/8424767/195079596-b0baf69a-23b0-46ce-90d7-728267efa273.png" width="140" height="140" style="max-width: 100%;">
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/37702739-2c78-49c2-b68a-c64dd5785860" rel="nofollow">
-    <img src="https://user-images.githubusercontent.com/8424767/195076668-85b8d275-cf29-400c-9264-42c81d1aae79.png" width="140" height="140" style="max-width: 100%;">
+<a href="https://www.credly.com/earner/earned/badge/b3bb80ae-ecf8-4a43-9c67-0f4369652d9a" rel="nofollow">
+    <img src="https://user-images.githubusercontent.com/8424767/195079812-992b0d45-a8a8-4442-8434-48a831b9702a.png" width="140" height="140" style="max-width: 100%;">
 </a>
 
 <!--
